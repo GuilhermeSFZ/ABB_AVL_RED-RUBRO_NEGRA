@@ -1,5 +1,5 @@
 # ABB_AVL_RUBRO-NEGRA_TREES
-O trabalho consiste em criar um algoritmo que gere arquivos com números inteiros aleatórios, implementar árvores binárias (Clássica (Árvore Binária de Busca - ABB), AVL e Rubro-Negra/Red-Black), e realizar operações de inserção e busca, contabilizando rotações, comparações e tempo de execução.
+O trabalho consiste em criar um algoritmo que gere arquivos com números inteiros aleatórios, implementar árvores binárias (Clássica (Árvore Binária de Busca - BST), AVL e Rubro-Negra/Red-Black), e realizar operações de inserção e busca, contabilizando rotações, comparações e tempo de execução.
 Descrição:
 Etapa 1:
 Elabore um algoritmo que gere um arquivo contendo um conjunto de valores inteiros, definidos aleatoriamente, não repetidos, no intervalo entre 1 e 100.000, sendo um valor por linha. O Algoritmo receberá como parâmetros de chamada o número de valores a serem gerados e nome do arquivo de saída.
