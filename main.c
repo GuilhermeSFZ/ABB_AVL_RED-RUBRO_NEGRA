@@ -1,11 +1,3 @@
-/***
- * Universidade Federal de Mato Grosso - UFMT
- * Prof: Dr. Robson da Silva Lopes
- * Alunos: Guilherme da Silva Ferraz
- * 
- *  
-***/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "avl.h"
